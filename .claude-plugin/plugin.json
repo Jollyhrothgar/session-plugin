@@ -1,0 +1,9 @@
+{
+  "name": "session",
+  "description": "Find and resume past agent sessions: recover and rank recent Claude Code and OpenCode terminal sessions and emit resume commands.",
+  "author": {
+    "name": "Mike Beaumier",
+    "url": "https://github.com/Jollyhrothgar"
+  },
+  "repository": "https://github.com/Jollyhrothgar/personal_ai_config"
+}
