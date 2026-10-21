@@ -15,8 +15,8 @@ command that resumes each one.
 ## Install
 
 ```bash
-claude plugin marketplace add Jollyhrothgar/personal_ai_config
-claude plugin install session@jollyhrothgar
+claude plugin marketplace add Jollyhrothgar/session-plugin
+claude plugin install session@session-plugin
 ```
 
 To try a working copy without installing: `claude --plugin-dir .`

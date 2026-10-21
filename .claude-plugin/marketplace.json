@@ -1,0 +1,15 @@
+{
+  "name": "session-plugin",
+  "description": "The session Claude Code plugin, installable on its own.",
+  "owner": {
+    "name": "Mike Beaumier",
+    "url": "https://github.com/Jollyhrothgar"
+  },
+  "plugins": [
+    {
+      "name": "session",
+      "source": "./",
+      "description": "Find and resume past agent sessions: recover and rank recent Claude Code and OpenCode terminal sessions and emit resume commands."
+    }
+  ]
+}
